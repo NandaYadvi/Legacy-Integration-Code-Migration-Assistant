@@ -45,27 +45,28 @@ Instead of relying only on an LLM's knowledge, the system first retrieves releva
                   +-----------+-----------+
                               |
                               |
-                     XML Parsing
+                         XML Parsing
                               |
                               ▼
-                HuggingFace Embeddings
+                    HuggingFace Embeddings
                               |
                               ▼
-             MongoDB Atlas Vector Search
+                 MongoDB Atlas Vector Search
                               |
+                              ▼
                  Retrieve Similar Examples
                               |
                               ▼
-               Prompt Construction (RAG)
+                   Prompt Construction (RAG)
                               |
                               ▼
-                Google Gemini LLM
+                     Google Gemini LLM
                               |
                               ▼
-             Production MuleSoft XML
+                   Production MuleSoft XML
                               |
                               ▼
-                  Download XML Output
+                      Download XML Output
 ```
 
 ---
