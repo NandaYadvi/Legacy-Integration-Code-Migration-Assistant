@@ -1,0 +1,25 @@
+# Virtual Environment
+venv/
+
+# Secrets
+.env
+
+# Dataset
+data/
+
+# Python
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.idea/
+.vscode/
+
+# Logs
+*.log
