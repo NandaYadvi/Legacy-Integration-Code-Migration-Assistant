@@ -270,15 +270,16 @@ http://127.0.0.1:7860
 
 ## 1️⃣ Overview
 
-Shows the application dashboard and project information.
+Shows the application dashboard, project information and shows XML input/output interface. .
 
 ![Overview](screenshots/Overview.png)
+![Input/Output](screenshots/input_output.png)
 
 ---
 
 ## 2️⃣ XML Generation
 
-Shows XML input/output interface. Paste an Actian DataConnect XML file and click **Convert to MuleSoft**.
+Paste an Actian DataConnect XML file and click **Convert to MuleSoft**.
 
 ![Generation](screenshots/Generation.png)
 
